@@ -43,17 +43,15 @@ I recently completed the Programming Hero Web Development Bootcamp, where I work
 
 ## 🚀 Featured Projects
 
-### 🔹 [Project One Title](https://github.com/your-username/project-one)
-> A brief 2–3 sentence description of the project. Mention the tech stack and what it does.
+### 🔹 [Law BD ](https://github.com/mahbub-alam-dave/law-bd-application)
+> Law BD is a Lawyer booking web application. <br/> Live link: https://brilliant-meringue-02fc36.netlify.app/
 
-### 🔹 [Project Two Title](https://github.com/your-username/project-two)
-> Description with what problem it solves or its use-case. Mention any APIs or unique features.
+### 🔹 [AppDock](https://github.com/mahbub-alam-dave/app-dock-web-application)
+> App Dock is a app storing web application. user can register and showcase their apps by publishing on App Dock. <br/> live link: https://fir-standard-auth.web.app/
 
-### 🔹 [Project Three Title](https://github.com/your-username/project-three)
-> Explain if it’s a full-stack app, what it offers, and if it's deployed, include the live link.
+### 🔹 [ParcelXpress](https://github.com/mahbub-alam-dave/b-10-assignment-8-gadget-ecommerce-project)
+> Gadget Shop is an ecommerce web application that sells Smarts phones, Laptops, Tablets etc. <br/> live link: gadget-ecommerce-shop.surge.sh
 
-### 🔹 [Project Four Title](https://github.com/your-username/project-four)
-> This could be a practice project, clone, or experimental feature using a new tech.
 
 ---
 
