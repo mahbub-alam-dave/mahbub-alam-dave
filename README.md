@@ -43,14 +43,18 @@ I recently completed the Programming Hero Web Development Bootcamp, where I work
 
 ## 🚀 Featured Projects
 
-### 🔹 [Law BD ](https://github.com/mahbub-alam-dave/law-bd-application)
+### 🔹 [Study Mate ](https://github.com/mahbub-alam-dave/law-bd-application)
+> A study-based community application for the students to stay focused. <br/> Live link: https://fir-advance-project.web.app/
+
+### 🔹 [ Delicia ](https://github.com/mahbub-alam-dave/b-10-assignment-8-gadget-ecommerce-project)
+> Delia is an online recipe app. People can get delicious recipes, add  and manage recipes, etc <br/> live link: https://endearing-beijinho-046288.netlify.app/
+
+### 🔹 [ Law BD ](https://github.com/mahbub-alam-dave/law-bd-application)
 > Law BD is a Lawyer booking web application. <br/> Live link: https://brilliant-meringue-02fc36.netlify.app/
 
-### 🔹 [AppDock](https://github.com/mahbub-alam-dave/app-dock-web-application)
-> App Dock is a app storing web application. users can register and showcase their apps by publishing on App Dock. <br/> live link: https://fir-standard-auth.web.app/
+### 🔹 [ AppDock ](https://github.com/mahbub-alam-dave/app-dock-web-application)
+> App Dock is an app that stores web and mobile applications. Users can register and showcase their apps by publishing on App Dock. <br/> live link: https://fir-standard-auth.web.app/
 
-### 🔹 [Gadget Shop](https://github.com/mahbub-alam-dave/b-10-assignment-8-gadget-ecommerce-project)
-> Gadget Shop is an ecommerce web application that sells smartphones, Laptops, Tablets, etc. <br/> live link: https://gadget-ecommerce-shop.surge.sh/
 
 
 ---
