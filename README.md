@@ -47,7 +47,7 @@ I recently completed the Programming Hero Web Development Bootcamp, where I work
 > A study-based community application for the students to stay focused. <br/> Live link: https://fir-advance-project.web.app/
 
 ### 🔹 [ Delicia ](https://github.com/mahbub-alam-dave/b-10-assignment-8-gadget-ecommerce-project)
-> Delia is an online recipe app. People can get delicious recipes, add  and manage recipes, etc <br/> live link: https://endearing-beijinho-046288.netlify.app/
+> Delia is an online recipe app. People can get delicious recipes, add  and manage recipes, etc <br/> live link: https://fascinating-queijadas-46bd45.netlify.app/
 
 ### 🔹 [ Law BD ](https://github.com/mahbub-alam-dave/law-bd-application)
 > Law BD is a Lawyer booking web application. <br/> Live link: https://brilliant-meringue-02fc36.netlify.app/
