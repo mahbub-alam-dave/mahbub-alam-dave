@@ -43,7 +43,7 @@ I recently completed the Programming Hero Web Development Bootcamp, where I work
 
 ## 🚀 Featured Projects
 
-### 🔹 [Study Mate ](https://github.com/mahbub-alam-dave/law-bd-application)
+### 🔹 [Trip Hood ](https://github.com/mahbub-alam-dave/law-bd-application)
 > Trip Hood is a travel guiding web application, provides Bangladeshi travellers modernized travel service and guiding system.<br/> Live link: https://magenta-peony-7491e1.netlify.app/
 ### 🔹 [Study Mate ](https://github.com/mahbub-alam-dave/law-bd-application)
 > A study-based community application for the students to stay focused. <br/> Live link: https://fir-advance-project.web.app/
