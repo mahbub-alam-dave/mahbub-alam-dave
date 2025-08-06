@@ -45,17 +45,13 @@ I recently completed the Programming Hero Web Development Bootcamp, where I work
 
 ### 🔹 [Trip Hood ](https://github.com/mahbub-alam-dave/law-bd-application)
 > Trip Hood is a travel guiding web application, provides Bangladeshi travellers modernized travel service and guiding system.<br/> Live link: https://magenta-peony-7491e1.netlify.app/
+
 ### 🔹 [Study Mate ](https://github.com/mahbub-alam-dave/law-bd-application)
 > A study-based community application for the students to stay focused. <br/> Live link: https://fir-advance-project.web.app/
 
 ### 🔹 [ Delicia ](https://github.com/mahbub-alam-dave/b-10-assignment-8-gadget-ecommerce-project)
 > Delia is an online recipe app. People can get delicious recipes, add  and manage recipes, etc <br/> live link: https://fascinating-queijadas-46bd45.netlify.app/
 
-### 🔹 [ Law BD ](https://github.com/mahbub-alam-dave/law-bd-application)
-> Law BD is a Lawyer booking web application. <br/> Live link: https://brilliant-meringue-02fc36.netlify.app/
-
-### 🔹 [ AppDock ](https://github.com/mahbub-alam-dave/app-dock-web-application)
-> App Dock is an app that stores web and mobile applications. Users can register and showcase their apps by publishing on App Dock. <br/> live link: https://fir-standard-auth.web.app/
 
 
 
@@ -66,7 +62,7 @@ I recently completed the Programming Hero Web Development Bootcamp, where I work
 <p>
   <a href="https://www.linkedin.com/in/md-mahabub-alam-web-dave/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mahbubalamdave2.00@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://mahbub-alam-dave.org" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://unrivaled-daifuku-a1995d.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
