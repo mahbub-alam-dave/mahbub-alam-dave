@@ -52,7 +52,19 @@ Passionate about coding, I continuously learn and explore new technologies to st
 > A study-based community application for the students to stay focused. <br/> Live link: https://fir-advance-project.web.app/
 
 ### 🔹 [ Delicia ](https://github.com/mahbub-alam-dave/b-10-assignment-8-gadget-ecommerce-project)
-> Delia is an online recipe app. People can get delicious recipes, add  and manage recipes, etc <br/> live link: https://fascinating-queijadas-46bd45.netlify.app/
+> Delicia is an online recipe app. People can get delicious recipes, add and manage recipes, etc.  
+> **Live Link:** [https://fascinating-queijadas-46bd45.netlify.app/](https://fascinating-queijadas-46bd45.netlify.app/)
+
+---
+
+#### 🛠 Technologies Used  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 
 
 
