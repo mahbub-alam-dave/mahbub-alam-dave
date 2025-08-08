@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-a junior web developer skilled in MERN stack technologies. I have built several real-world projects using my hands-on experience with HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB.
+I am a junior web developer skilled in the MERN stack technologies. I have built several real-world projects using my hands-on experience with HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB.
 
 Passionate about coding, I continuously learn and explore new technologies to stay ahead in the field. I am currently exploring Next.js and will soon start learning TypeScript, Redux, Prisma, Docker, and PostgreSQL for advanced backend development and database management. I am committed to keeping my skills up to date and delivering high-quality, modern web solutions.
 
