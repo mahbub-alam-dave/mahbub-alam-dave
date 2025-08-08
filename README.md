@@ -12,7 +12,9 @@
 
 ## 🧑‍💻 About Me
 
-I recently completed the Programming Hero Web Development Bootcamp, where I worked with the full MERN Stack. I’m passionate about coding, solving real-world problems, and always eager to pick up new tech and tools.
+a junior web developer skilled in MERN stack technologies. I have built several real-world projects using my hands-on experience with HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB.
+
+Passionate about coding, I continuously learn and explore new technologies to stay ahead in the field. I am currently exploring Next.js and will soon start learning TypeScript, Redux, Prisma, Docker, and PostgreSQL for advanced backend development and database management. I am committed to keeping my skills up to date and delivering high-quality, modern web solutions.
 
 ---
 
