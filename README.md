@@ -5,14 +5,14 @@
 <h1 >Hi there, I'm Mahbub Alam 👋</h1>
 
 <p>
-  🌱 Junior Web Developer | 🚀 MERN Stack Developer | 📖 Lifelong Learner
+  🌱 Junior Web Developer | 🚀 Junior Full Stack Developer | 📖 Lifelong Learner
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I am a junior web developer skilled in the MERN stack technologies. I have built several real-world projects using my hands-on experience with HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB.
+I am a junior web developer skilled in the MERN stack technologies and Next.js. I have built several real-world projects using my hands-on experience with HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, and MongoDB.
 
 Passionate about coding, I continuously learn and explore new technologies to stay ahead in the field. I am currently exploring Next.js and will soon start learning TypeScript, Redux, Prisma, Docker, and PostgreSQL for advanced backend development and database management. I am committed to keeping my skills up to date and delivering high-quality, modern web solutions.
 
