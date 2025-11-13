@@ -26,6 +26,7 @@ Passionate about coding, I continuously learn and explore new technologies to st
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-61DAFB?style=for-the-badge&logo=next&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -44,6 +45,12 @@ Passionate about coding, I continuously learn and explore new technologies to st
 ---
 
 ## 🚀 Featured Projects
+
+### 🔹 [Ezi Drop ](https://github.com/mahbub-alam-dave/ezi-drop)
+> Ezi Drop is a smart, automated and AI-assisted Courier and delivery web application using Next.js and other technologies.<br/> Live link: https://ezi-drop.vercel.app/
+
+**Technologies Used:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square) ![Next](https://img.shields.io/badge/Next-61DAFB?logo=next&logoColor=black&style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 
 ### 🔹 [Trip Hood ](https://github.com/mahbub-alam-dave/law-bd-application)
 > Trip Hood is a travel guiding web application, provides Bangladeshi travellers modernized travel service and guiding system.<br/> Live link: https://magenta-peony-7491e1.netlify.app/
